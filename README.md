@@ -9,3 +9,10 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 - [Automation Tester Course - Automation of MyStore platform tests](https://github.com/MagdaChocaj/MyStore_Automation.git) 
 - [Number Guessing Game]()
 - [Party App]()
+
+## Manual
+### Test Plans
+- [Manual Tester Course - MyStore Test Plans]()
+
+### Test Reports 
+- [Manual Tester Course - MyStore Test Reports]()
