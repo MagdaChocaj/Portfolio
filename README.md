@@ -12,7 +12,7 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 
 ## Manual
 ### Test Plans
-- [Manual Tester Course - MyStore Test Plans]()
+- [Manual Tester Course - MyStore Test Plans](https://github.com/MagdaChocaj/Portfolio/tree/main/Manual/Test%20Plan)
 
 ### Test Reports 
 - [Manual Tester Course - MyStore Test Reports]()
