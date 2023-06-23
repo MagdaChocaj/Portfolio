@@ -7,3 +7,6 @@
 [submodule "Automation/MyStore_Automation"]
 	path = Automation/MyStore_Automation
 	url = https://github.com/MagdaChocaj/MyStore_Automation.git
+[submodule "Automation/Number_Guessing_Game"]
+	path = Automation/Number_Guessing_Game
+	url = https://github.com/MagdaChocaj/Number_Guessing_Game.git
