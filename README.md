@@ -6,5 +6,5 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 
 ## Automation 
 ### Java Projects
--[Automation Tester Course - Automation of MyStore platform tests]  
+-[Automation Tester Course - Automation of MyStore platform tests] (https://github.com/MagdaChocaj/MyStore_Automation.git) 
 -[Number Guessing Game]
