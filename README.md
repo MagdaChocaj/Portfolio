@@ -8,7 +8,7 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 ### Java Projects
 - [Automation Tester Course - Automation of MyStore platform tests](https://github.com/MagdaChocaj/MyStore_Automation.git) 
 - [Number Guessing Game](https://github.com/MagdaChocaj/Number_Guessing_Game.git)
-- [Party App]()
+- [Party App](https://github.com/MagdaChocaj/Party_App)
 
 ## Manual
 ### Test Plans
