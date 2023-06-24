@@ -10,3 +10,6 @@
 [submodule "Automation/Number_Guessing_Game"]
 	path = Automation/Number_Guessing_Game
 	url = https://github.com/MagdaChocaj/Number_Guessing_Game.git
+[submodule "Automation/Party_App"]
+	path = Automation/Party_App
+	url = https://github.com/MagdaChocaj/Party_App.git
