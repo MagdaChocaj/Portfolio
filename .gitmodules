@@ -1,9 +1,3 @@
-[submodule "Zadania_koncowe"]
-	path = Zadania_koncowe
-	url = https://github.com/MagdaChocaj/Zadania_koncowe.git
-[submodule "Automation/Zadania_koncowe"]
-	path = Automation/Zadania_koncowe
-	url = https://github.com/MagdaChocaj/Zadania_koncowe.git
 [submodule "Automation/Fakestore_Automation"]
 	path = Automation/Fakestore_Automation
 	url = https://github.com/MagdaChocaj/Fakestore-automation.git
