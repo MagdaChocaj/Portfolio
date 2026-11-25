@@ -5,7 +5,7 @@
 	path = Automation/Zadania_koncowe
 	url = https://github.com/MagdaChocaj/Zadania_koncowe.git
 [submodule "Automation/Fakestore_Automation"]
-	path = Automation/Fakestore_Automation]
+	path = Automation/Fakestore_Automation
 	url = https://github.com/MagdaChocaj/Fakestore-automation.git
 [submodule "Automation/MyStore_Automation"]
 	path = Automation/MyStore_Automation
