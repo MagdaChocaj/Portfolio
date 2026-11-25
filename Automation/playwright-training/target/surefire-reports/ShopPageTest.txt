@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: ShopPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.010 s <<< FAILURE! -- in ShopPageTest
+ShopPageTest.selectCategoryTest -- Time elapsed: 0.006 s <<< ERROR!
+com.microsoft.playwright.impl.TargetClosedError: 
+Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\server\dispatchers\dispatcher.js:260:69)
+    at transport.onmessage (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\cli\driver.js:53:59)
+    at Immediate._onImmediate (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\server\utils\pipeTransport.js:76:16)
+    at process.processImmediate (node:internal/timers:485:21)
+}
+	at com.microsoft.playwright.impl.WaitableResult.get(WaitableResult.java:54)
+	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:138)
+	at com.microsoft.playwright.impl.Connection.sendMessage(Connection.java:131)
+	at com.microsoft.playwright.impl.ChannelOwner.sendMessage(ChannelOwner.java:124)
+	at com.microsoft.playwright.impl.FrameImpl.navigateImpl(FrameImpl.java:419)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:918)
+	at com.microsoft.playwright.impl.PageImpl.navigate(PageImpl.java:42)
+	at com.microsoft.playwright.Page.navigate(Page.java:5491)
+	at fakestore.actions.Actions.loadUrl(Actions.java:24)
+	at fakestore.pages.MainPage.openBrowserAndLoadMainPage(MainPage.java:24)
+	at ShopPageTest.initializeDriver(ShopPageTest.java:19)
+Caused by: com.microsoft.playwright.impl.TargetClosedError: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\server\dispatchers\dispatcher.js:260:69)
+    at transport.onmessage (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\cli\driver.js:53:59)
+    at Immediate._onImmediate (C:\Users\mchocaj\AppData\Local\Temp\playwright-java-8558622274033744944\package\lib\server\utils\pipeTransport.js:76:16)
+    at process.processImmediate (node:internal/timers:485:21)
+}
+	at com.microsoft.playwright.impl.Connection.dispatch(Connection.java:259)
+	at com.microsoft.playwright.impl.Connection.processOneMessage(Connection.java:214)
+	at com.microsoft.playwright.impl.ChannelOwner.runUntil(ChannelOwner.java:136)
+	... 9 more
+
