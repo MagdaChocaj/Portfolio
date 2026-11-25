@@ -6,6 +6,7 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 
 ## Automation 
 ### Java Projects
+- [Test automation framework and tests for the Fakestore platform](https://github.com/MagdaChocaj/Fakestore-automation)
 - [Automation Tester Course - Automation of MyStore platform tests](https://github.com/MagdaChocaj/MyStore_Automation.git) 
 - [Number Guessing Game](https://github.com/MagdaChocaj/Number_Guessing_Game.git)
 - [Party App](https://github.com/MagdaChocaj/Party_App)
@@ -15,4 +16,4 @@ My name is Magdalena Chocaj. I'm a manual and automation tester with one year of
 - [Manual Tester Course - MyStore Test Plans](https://github.com/MagdaChocaj/Portfolio/tree/main/Manual/Test%20Plan)
 
 ### Test Reports 
-- [Manual Tester Course - MyStore Test Reports]()
+- [Manual Tester Course - MyStore Test Reports](https://github.com/MagdaChocaj/Portfolio/tree/main/Manual/Test%20Report)
